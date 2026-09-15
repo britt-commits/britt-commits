@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**britt-commits/britt-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Brittany (she/her) 👋</h1>
 
-Here are some ideas to get you started:
+### 👩‍💻 A little about me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏡 Austin, TX
+- ♿ Passionate about: making technology usable, understandable, and welcoming for *everyone*
+---
+### 🛠️ Skills & Strengths
+<p align="left">
+<img src="https://img.shields.io/badge/Interpersonal%20Communication-0891B2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Accessibility%20Advocacy-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Patience%20Under%20Pressure-7C3AED?style=for-the-badge" />
+</p>
+---
+### 📫 Let's connect
+
+<p align="left">
+  <a href="mailto:britt-commits.myspace862@passmail.net"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="[https://www.linkedin.com/in/brittanyromero/]"><img src="https://img.shields.io/badge/LinkedIn-
